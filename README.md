@@ -4,12 +4,16 @@ My independent project for my high school robotics project. My goal was to take 
 (Hardware list not finished)
 # Motors
 2 5.5 Watt V5 Motors
+
 4 8 Watt V5 Motors (Blue Insert)
+
 1 8 Watt V5 Motors (Red Insert)
 
 # Sensors
 3 V5 Absolute Rotational Sensors
+
 4 V5 Ai Vision Sensors (Front, Left, Right, Back)
+
 1 Laser Distance Sensor
 
 # Hardware
